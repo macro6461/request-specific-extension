@@ -7,3 +7,4 @@ This is the source code for my medium blog post, "Make Your Chrome Background Sc
 You can also [subscribe via email](https://matt-croak.medium.com/subscribe) and get notified whenever I post something new!
 
 Connect with me on socials, or pay an invoice [here](https://linktr.ee/mattcroak)!# request-specific-chrome-extension
+# request-specific-extension
