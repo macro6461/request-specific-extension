@@ -1,6 +1,6 @@
-# Extension Boilerplate
+# Request Specific Extension
 
-This is the source code for my medium blog post, "How To Write A Background Script For A Chrome Extension (Manifest Version 3)".
+This is the source code for my medium blog post, "Make Your Chrome Background Script HTTP Request Specific".
 
 [Upgrade your free Medium membership](https://matt-croak.medium.com/membership) and receive unlimited, ad-free, stories from thousands of writers on a wide variety of publications. This is an affiliate link and a portion of your membership helps me be rewarded for the content I create.
 

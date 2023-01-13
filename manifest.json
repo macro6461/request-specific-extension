@@ -1,17 +1,21 @@
 {
-    "name": "Extension Boilerplate",
-    "description": "Starter code for chrome extension.",
+    "name": "Request Specific Extension",
+    "description": "Starter code for a chrome extension that is request specific.",
     "version": "1.0.0",
     "manifest_version": 3,
     "permissions": [
         "scripting",
-        "activeTab"
+        "activeTab",
+        "webRequest"
     ],
     "background": {
         "service_worker": "background.js"
     },
+    "host_permissions": [
+        "<all_urls>"
+    ],
     "action":{
-        "default_title": "Extension Boilerplate",
+        "default_title": "Request Specific Extension",
         "default_icon": "assets/icon.png"
     }
 }
